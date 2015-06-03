@@ -11,11 +11,14 @@ work was large a response to DeRay's
 about how many people he has had to block on Twitter.
 
 The initial dataset we are working with consists of 12,014 tweets that were sent
-to @deray between May 23 and June 1, 2015. Twitter's Terms of Service do not
-allow us to distribute the raw data of this dataset. However Twitter does 
-allow the tweet identifers to be distributed. You can find our initial set 
-as part of this repository. If you want you should be able to obtain the 
-full dataset by "hydrating" the ids with [twarc](http://github.com/edsu/twarc).
+to @deray between May 23 and June 1, 2015. This amounts to a little more than 1
+tweet every minute. 
+
+While Twitter's Terms of Service do not allow us to distribute the JSON 
+dataset we obtained from Twitter's API, they do allow the tweet identifers 
+to be distributed. You can find our initial set as part of this repository 
+(to-deray-ids.txt). If you want you should be able to obtain the full JSON 
+dataset by "hydrating" the ids with [twarc](http://github.com/edsu/twarc).
 
     twarc.py --hydrate to-deray-ids.txt > to-deray.json
 
