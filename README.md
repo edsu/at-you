@@ -11,6 +11,8 @@ work was largely a response to DeRay's
 [tweet](https://twitter.com/deray/status/604782399906418688)
 about the number of people he has had to block on Twitter.
 
+## Data
+
 The initial datasets we are working with consist of 12,014 tweets that were 
 sent to @deray, and 1,537 tweets that were sent to @Nettaaaaaaaa between May 
 23 and June 1, 2015. They were collected on June 1st with
@@ -29,6 +31,8 @@ One significant caveat is that if a tweet has been deleted since our initial
 collection you will not be able to hydrate it, since Twitter's API will not 
 make it available.
 
+## Team
+
 Please don't hesitate to get in touch using the 
 [issues](https://github.com/edsu/to-deray/issues) queue, or via Twitter.
 This is a collaborative project. If you'd like to get involved let us know and
@@ -37,3 +41,9 @@ we'll let you know when we are meeting.
 * [Dan Chudnov](https://twitter.com/dchud)
 * [Bergis Jules](https://twitter.com/bergisjules)
 * [Ed Summers](https://twitter.com/edsu)
+
+## License
+
+We are making this data and code available using a
+[CC-BY](https://creativecommons.org/licenses/by/4.0/) license. If you do 
+use it please attribute our project.
