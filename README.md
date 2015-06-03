@@ -12,7 +12,10 @@ about how many people he has had to block on Twitter.
 
 The initial dataset we are working with consists of 12,014 tweets that were sent
 to @deray between May 23 and June 1, 2015. This amounts to a little more than 1
-tweet every minute. 
+tweet every minute. They were collected on June 1st with
+[twarc](http://github.com/edsu/twarc) using the following command:
+
+    twarc.py --search to:deray
 
 While Twitter's Terms of Service do not allow us to distribute the JSON 
 dataset we obtained from Twitter's API, they do allow the tweet identifers 
