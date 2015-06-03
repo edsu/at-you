@@ -3,7 +3,7 @@ to-deray
 
 This repository is a work in progress for analyzing and characterizing tweets
 that have been directed at [DeRay Mckesson](https://twitter.com/deray).  We want
-to help shine a light on deployment of online harrassment that 
+to help shine a light on the networks of online harrassment that 
 [BlackLivesMatter](https://en.wikipedia.org/wiki/Black_Lives_Matter) activists 
 like DeRay have to deal with when working in public social media spaces. This 
 work was large a response to DeRay's 
