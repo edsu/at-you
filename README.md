@@ -38,6 +38,6 @@ the addresses below.
 This is a collaborative project. If you'd like to get involved let us know and
 we'll let you know when we are meeting.
 
-* Dan Chudnov: [dchud@email.gwu.edu](mailto:dchud@email.gwu.edu)
-* Bergis Jules: [bergis.jules@ucr.edu](mailto:bergis.jules@ucr.edu) 
-* Ed Summers: [ehs@pobox.com](mailto:ehs@pobox.com)
+* [Dan Chudnov](https://twitter.com/dchud)
+* [Bergis Jules](https://twitter.com/bergisjules)
+* [Ed Summers](https://twitter.com/edsu)
