@@ -16,9 +16,10 @@ tweet every minute.
 
 While Twitter's Terms of Service do not allow us to distribute the JSON 
 dataset we obtained from Twitter's API, they do allow the tweet identifers 
-to be distributed. You can find our initial set as part of this repository 
-(to-deray-ids.txt). If you want you should be able to obtain the full JSON 
-dataset by "hydrating" the ids with [twarc](http://github.com/edsu/twarc).
+to be distributed. You can find our initial set as part of this repository:
+[to-deray-ids.txt](https://github.com/edsu/to-deray/blob/master/to-deray-ids.txt).
+If you want you should be able to obtain the full JSON dataset by "hydrating" 
+the ids with [twarc](http://github.com/edsu/twarc).
 
     twarc.py --hydrate to-deray-ids.txt > to-deray.json
 
