@@ -31,12 +31,8 @@ One significant caveat is that if a tweet has been deleted since our initial
 collection you will not be able to hydrate it, since Twitter's API will not 
 make it available.
 
-Check back soon for more details about our approach and findings. Please 
-don't hesitate to get in touch using the 
+Please don't hesitate to get in touch using the 
 [issues](https://github.com/edsu/to-deray/issues) queue, or via Twitter.
-
-## Team
-
 This is a collaborative project. If you'd like to get involved let us know and
 we'll let you know when we are meeting.
 
