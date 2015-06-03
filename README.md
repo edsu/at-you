@@ -30,8 +30,7 @@ the ids with [twarc](http://github.com/edsu/twarc).
 
 Check back soon for more details on our approach and findings. Please don't 
 hesitate to get in touch using the 
-[issues](https://github.com/edsu/to-deray/issues) queue, or via email using
-the addresses below.
+[issues](https://github.com/edsu/to-deray/issues) queue, or via Twitter.
 
 ## Team
 
