@@ -36,9 +36,10 @@ make it available.
 ## Team
 
 Please don't hesitate to get in touch using the 
-[issues](https://github.com/edsu/to-deray/issues) queue, or via Twitter.
-This is a collaborative project. If you'd like to get involved let us know and
-we'll let you know when we are meeting.
+[issues](https://github.com/edsu/to-deray/issues) queue, or via Twitter, or 
+in [chat](https://gitter.im/edsu/at-you). This is a collaborative project. 
+If you'd like to get involved let us know and we'll let you know when we 
+are meeting.
 
 * [Dan Chudnov](https://twitter.com/dchud)
 * [Bergis Jules](https://twitter.com/bergisjules)
