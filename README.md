@@ -11,8 +11,6 @@ work was largely a response to DeRay's
 [tweet](https://twitter.com/deray/status/604782399906418688)
 about the number of people he has had to block on Twitter.
 
-## Data
-
 The initial datasets we are working with consist of 12,014 tweets that were 
 sent to @deray, and 1,537 tweets that were sent to @Nettaaaaaaaa between May 
 23 and June 1, 2015. They were collected on June 1st with
