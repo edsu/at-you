@@ -7,7 +7,7 @@ that have been directed at [DeRay Mckesson](https://twitter.com/deray) and
 light on the networks of online harrassment that 
 [BlackLivesMatter](https://en.wikipedia.org/wiki/Black_Lives_Matter) activists 
 have to deal with when working in public social media spaces. This 
-work was large a response to DeRay's 
+work was largely a response to DeRay's 
 [tweet](https://twitter.com/deray/status/604782399906418688)
 about the number of people he has had to block on Twitter.
 
