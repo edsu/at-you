@@ -23,16 +23,16 @@ sent to @deray, and 1,537 tweets that were sent to @Nettaaaaaaaa between May
 
 While Twitter's Terms of Service do not allow us to distribute the complete 
 JSON dataset we obtained from Twitter's API, they do allow us to distribute the
-tweet identifers. You can find our initial set as part of this repository:
-[to-deray-ids.txt](https://github.com/edsu/to-deray/blob/master/to-deray-ids.txt) and [to-nettaaaaaaaa-ids.txt](https://github.com/edsu/at-you/blob/master/to-nettaaaaaaaa-ids.txt).
-You should be able to obtain the full JSON dataset by "hydrating" 
-the ids with [twarc](http://github.com/edsu/twarc).
+tweet identifers. You can find our initial sets of ids in the data directory
+in this repository. You should be able to obtain the full JSON dataset by 
+"hydrating" the ids with [twarc](http://github.com/edsu/twarc).
 
-    twarc.py --hydrate to-deray-ids.txt > to-deray.json
-    twarc.py --hydrate to-nettaaaaaaaa-ids.txt > to-nettaaaaaaaa.json
+One significant caveat is that if a tweet has been deleted since our initial 
+collection you will not be able to hydrate it, since Twitter's API will not 
+make it available.
 
-Check back soon for more details on our approach and findings. Please don't 
-hesitate to get in touch using the 
+Check back soon for more details about our approach and findings. Please 
+don't hesitate to get in touch using the 
 [issues](https://github.com/edsu/to-deray/issues) queue, or via Twitter.
 
 ## Team
