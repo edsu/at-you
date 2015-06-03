@@ -10,6 +10,8 @@ work was large a response to DeRay's
 [tweet](https://twitter.com/deray/status/604782399906418688)
 about how many people he has had to block on Twitter.
 
+## Data
+
 The initial dataset we are working with consists of 12,014 tweets that were sent
 to @deray between May 23 and June 1, 2015. This amounts to a little more than 1
 tweet every minute. They were collected on June 1st with
